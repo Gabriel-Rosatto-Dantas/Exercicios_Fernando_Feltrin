@@ -1,0 +1,1 @@
+# Um comentário qualquer que contem apenas 1 linha
